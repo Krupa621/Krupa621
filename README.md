@@ -1,9 +1,9 @@
-<h1 style="font-size: 42px; font-weight: 900; text-align: center; margin-bottom: 10px;">
-🌈 Krupa Patel
+<h1 style="font-size: 42px; font-weight: 900; text-align: center; margin-bottom: 10px; align="center"">
+KRUPA PATEL
 </h1>
 
 <h2 style="text-align: center; font-weight: 600; margin-top: -10px;">
-Software Developer • Full‑Stack • Cloud Engineering
+Software Developer • Full‑Stack Developer • Front-End Developer • Cloud Engineering
 </h2>
 
 <p align="center">
@@ -11,7 +11,7 @@ Software Developer • Full‑Stack • Cloud Engineering
 📧 kpate6201@gmail.com •
 📱 +1 224‑475‑8699
 <br>
-🔗 <b>LinkedIn</b> •
+🔗https://www.linkedin.com/in/krupa62 <b>LinkedIn</b> •
 <b>Portfolio</b> •
 <b>GitHub</b>
 </p>
