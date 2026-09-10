@@ -28,7 +28,8 @@ My work blends clean UI/UX, strong API architecture, and automation using OCR + 
 <h2>🎨 What I Build</h2>
 I build full‑stack web applications, cloud‑native APIs, and intelligent automation systems that are production‑ready and scalable. My frontend work includes responsive dashboards built with React.js, Next.js, Angular.js, TypeScript, and clean UI/UX workflows. On the backend, I design reliable REST APIs and cloud services using Node.js, Flask, SQL Alchemy, PostgreSQL, MongoDB, and Redis — optimized for performance, concurrency, and maintainability. I also architect AWS and Azure pipelines with Docker, CI/CD, EC2, RDS, S3, and event‑driven workflows. Additionally, I build document‑intelligence systems using OCR, LLMs, and RAG pipelines to reduce manual processing time and streamline enterprise operations.
 
-<h2> 🚀 Featured Projects </h2>
+<h2>🚀 Featured Projects</h2>
+
 | **[Project](ca://s?q=Tell_me_more_about_this_project)** | **Stack** | **Highlights** |
 | --- | --- | --- |
 | 🌍 **Real-Time Location Tracking Dashboard** | Angular.js, React.js, WebSockets, AWS, SQL | Sub‑second updates · 500+ concurrent users · optimized event broadcasting |
@@ -37,7 +38,10 @@ I build full‑stack web applications, cloud‑native APIs, and intelligent auto
 | 🧭 **ERP System — Attendance & HR Analytics** | React.js, Ant Design, TypeScript, REST API | Role-based access · live sync · improved HR visibility |
 | 🏢 **Mekanism Technology Company Website** | Next.js, React.js, SCSS, Git, Jira | Responsive UI · modular SCSS · collaborative delivery |
 
-<h2> 🧠 Technical Skills </h2>
+<hr>
+
+<h2>🧠 Technical Skills</h2>
+
 | **Category** | **Skills** |
 | --- | --- |
 | 🎨 **Frontend** | HTML5 · CSS3 · JavaScript (ES6) · SCSS · React.js · Next.js · Angular.js · TypeScript |
@@ -46,10 +50,14 @@ I build full‑stack web applications, cloud‑native APIs, and intelligent auto
 | 🗄️ **Databases** | PostgreSQL · MySQL · MongoDB · Firebase |
 | 🧰 **Tools & Practices** | Agile/Scrum · Unit & Integration Testing · Postman · Figma · Jira · LLMs · RAG · OCR Pipelines |
 
-<h2> 🎯 What I'm Looking For </h2>
-Software Developer
-Frontend Developer
-Full‑Stack Developer
-Cloud & API Engineering roles
+<hr>
 
-Open to W2, Contract, and Onsite roles near Mason, OH.
+<h2> 🎯 What I'm Looking For </h2>
+<ul>
+  <li>Software Developer</li>
+  <li>Frontend Developer</li>
+  <li>Full‑Stack Developer</li>
+  <li>Cloud & API Engineering roles</li>
+</ul>
+
+<b>Open to W2, Contract, and Onsite roles near Mason, OH.</b>
