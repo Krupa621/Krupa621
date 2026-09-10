@@ -12,7 +12,6 @@ I’m a Full‑Stack Software Developer with hands-on experience building produc
 🔧 What I Build
 I build full‑stack web applications, cloud‑native APIs, and intelligent automation systems that are production‑ready and scalable. My frontend work includes crafting responsive, real‑time dashboards using React.js, Next.js, Angular.js, TypeScript, and clean UI/UX workflows. On the backend, I design reliable REST APIs and cloud services using Node.js, Flask, SQL Alchemy, PostgreSQL, MongoDB, and Redis — optimized for performance, concurrency, and maintainability. I also architect AWS and Azure cloud pipelines with Docker, CI/CD, EC2, RDS, S3, and event‑driven workflows that support high‑availability deployments. Additionally, I build document‑intelligence and automation systems using OCR, LLMs, and RAG pipelines to reduce manual processing time and streamline enterprise operations.
 
-🚀 Featured Projects
 | **[Project](ca://s?q=Tell_me_more_about_this_project)** | **Stack** | **Highlights** |
 | --- | --- | --- |
 | 🌍 **Real-Time Location Tracking Dashboard** | Angular.js, React.js, WebSockets, AWS, SQL | Sub‑second updates · 500+ concurrent users · optimized event broadcasting |
@@ -21,21 +20,13 @@ I build full‑stack web applications, cloud‑native APIs, and intelligent auto
 | 🧭 **ERP System — Attendance & HR Analytics** | React.js, Ant Design, TypeScript, REST API | Role-based access · live sync · improved HR visibility |
 | 🏢 **Mekanism Technology Company Website** | Next.js, React.js, SCSS, Git, Jira | Responsive UI · modular SCSS · collaborative delivery |
 
-🛠️ Technical Skills
-Frontend
-HTML5 · CSS3 · JavaScript (ES6) · SCSS · React.js · Next.js · Angular.js · TypeScript
-
-Backend & APIs
-Node.js · REST API Design · ASP.NET · Flask · Spring Boot · GraphQL · SQL Alchemy
-
-Cloud & DevOps
-AWS (EC2, RDS, S3) · Azure (IaaS/PaaS) · Docker · GitHub · GitLab CI/CD · Linux
-
-Databases
-PostgreSQL · MySQL · MongoDB · Firebase
-
-Tools & Practices
-Agile/Scrum · Unit & Integration Testing · Postman · Figma · Jira · LLMs · RAG · OCR Pipelines
+| **Category** | **Skills** |
+| --- | --- |
+| 🎨 **Frontend** | HTML5 · CSS3 · JavaScript (ES6) · SCSS · React.js · Next.js · Angular.js · TypeScript |
+| ⚙️ **Backend & APIs** | Node.js · REST API Design · ASP.NET · Flask · Spring Boot · GraphQL · SQL Alchemy |
+| ☁️ **Cloud & DevOps** | AWS (EC2, RDS, S3) · Azure (IaaS/PaaS) · Docker · GitHub · GitLab CI/CD · Linux |
+| 🗄️ **Databases** | PostgreSQL · MySQL · MongoDB · Firebase |
+| 🧰 **Tools & Practices** | Agile/Scrum · Unit & Integration Testing · Postman · Figma · Jira · LLMs · RAG · OCR Pipelines |
 
 🎓 Education
 M.S. Information Technology — Illinois State University  
