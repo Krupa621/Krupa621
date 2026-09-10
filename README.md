@@ -1,16 +1,55 @@
-## Hi there 👋
+🌟 Krupa Patel
+Software Developer | Full‑Stack & Cloud Engineering
 
-<!--
-**Krupa621/Krupa621** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Mason, OH (Open to Relocate)
+📧 kpate6201@gmail.com
+📱 +1 224‑475‑8699
+🔗 LinkedIn · Portfolio · GitHub
 
-Here are some ideas to get you started:
+👋 Hi, I'm Krupa
+I’m a Full‑Stack Software Developer with hands-on experience building production-grade web applications, cloud APIs, and intelligent automation systems. I specialize in React, Node.js, Angular, Python, AWS, Azure, and modern SDLC practices. I love turning complex requirements into clean, scalable, and user-friendly solutions — from UI to API to cloud deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 What I Build
+I build full‑stack web applications, cloud‑native APIs, and intelligent automation systems that are production‑ready and scalable. My frontend work includes crafting responsive, real‑time dashboards using React.js, Next.js, Angular.js, TypeScript, and clean UI/UX workflows. On the backend, I design reliable REST APIs and cloud services using Node.js, Flask, SQL Alchemy, PostgreSQL, MongoDB, and Redis — optimized for performance, concurrency, and maintainability. I also architect AWS and Azure cloud pipelines with Docker, CI/CD, EC2, RDS, S3, and event‑driven workflows that support high‑availability deployments. Additionally, I build document‑intelligence and automation systems using OCR, LLMs, and RAG pipelines to reduce manual processing time and streamline enterprise operations.
+
+🚀 Featured Projects
+Project	Stack	Highlights
+Real-Time Location Tracking Dashboard	Angular.js, React.js, WebSockets, AWS, SQL	Sub‑second live tracking · 500+ concurrent users · optimized event broadcasting
+Internal Document Intelligence Platform	Python, OCR, LLMs, Angular.js, PostgreSQL, Docker, AWS	Automated OCR+LLM extraction · 80%+ faster review · full SDLC delivery
+Scalable Cloud API & Analytics Platform	Flask, PostgreSQL, MongoDB, Redis, Docker, AWS	99.9% uptime · 35% lower latency · supports 25% more concurrent requests
+ERP System — Attendance & HR Analytics	React.js, Ant Design, TypeScript, REST API	Role-based access · live sync · improved HR visibility & workflow
+Mekanism Technology Company Website	Next.js, React.js, SCSS, Git, Jira	Responsive design · modular SCSS · collaborative feature delivery
+
+🛠️ Technical Skills
+Frontend
+HTML5 · CSS3 · JavaScript (ES6) · SCSS · React.js · Next.js · Angular.js · TypeScript
+
+Backend & APIs
+Node.js · REST API Design · ASP.NET · Flask · Spring Boot · GraphQL · SQL Alchemy
+
+Cloud & DevOps
+AWS (EC2, RDS, S3) · Azure (IaaS/PaaS) · Docker · GitHub · GitLab CI/CD · Linux
+
+Databases
+PostgreSQL · MySQL · MongoDB · Firebase
+
+Tools & Practices
+Agile/Scrum · Unit & Integration Testing · Postman · Figma · Jira · LLMs · RAG · OCR Pipelines
+
+🎓 Education
+M.S. Information Technology — Illinois State University  
+GPA: 3.78
+
+B.S. Computer Technology — Gujarat Technological University  
+GPA: 3.48
+
+🎯 What I'm Looking For
+Software Developer
+
+Frontend Developer
+
+Full‑Stack Developer
+
+Cloud & API Engineering roles
+
+Open to W2, Contract, and Onsite roles near Mason, OH.
