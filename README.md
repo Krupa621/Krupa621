@@ -1,4 +1,4 @@
-<h1 style="font-size: 42px; font-weight: 900; text-align: center; margin-bottom: 10px; align="center"">
+<h1 style="font-size: 42px; font-weight: 900; text-align: center; margin-bottom: 10px;" align="center">
 KRUPA PATEL
 </h1>
 
@@ -11,9 +11,8 @@ Software Developer • Full‑Stack Developer • Front-End Developer • Cloud 
 📧 kpate6201@gmail.com •
 📱 +1 224‑475‑8699
 <br>
-🔗https://www.linkedin.com/in/krupa62 <b>LinkedIn</b> •
-<b>Portfolio</b> •
-<b>GitHub</b>
+🔗 <a href="https://www.linkedin.com/in/krupa62"><b>LinkedIn</b></a> •
+<a href="https://portfolio-krupa-patel.netlify.app/"><b>Portfolio</b> •
 </p>
 
 <hr>
