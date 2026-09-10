@@ -11,7 +11,7 @@ Software Developer • Full‑Stack Developer • Front-End Developer • Cloud 
 📧 kpate6201@gmail.com •
 📱 +1 224‑475‑8699
 <br>
-🔗 <a href="https://www.linkedin.com/in/krupa62"><b>LinkedIn</b></a> •
+<a href="https://www.linkedin.com/in/krupa62"><b>LinkedIn</b></a> •
 <a href="https://portfolio-krupa-patel.netlify.app/"><b>Portfolio</b>
 </p>
 
