@@ -1,4 +1,10 @@
+<h1 style="font-size: 44px; font-weight: 900; text-align: center;
+background: linear-gradient(90deg, #ff6ec4, #7873f5);
+-webkit-background-clip: text;
+color: transparent;">
 Krupa Patel
+</h1>
+
 Software Developer • Full‑Stack • Cloud Engineering
 📍 Mason, OH (Open to Relocate)
 📧 kpate6201@gmail.com
@@ -20,7 +26,7 @@ I build full‑stack web applications, cloud‑native APIs, and intelligent auto
 | 🧭 **ERP System — Attendance & HR Analytics** | React.js, Ant Design, TypeScript, REST API | Role-based access · live sync · improved HR visibility |
 | 🏢 **Mekanism Technology Company Website** | Next.js, React.js, SCSS, Git, Jira | Responsive UI · modular SCSS · collaborative delivery |
 
-🧠 Technical Skills 
+🧠 Technical Skills
 | **Category** | **Skills** |
 | --- | --- |
 | 🎨 **Frontend** | HTML5 · CSS3 · JavaScript (ES6) · SCSS · React.js · Next.js · Angular.js · TypeScript |
