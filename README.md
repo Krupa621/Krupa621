@@ -1,16 +1,15 @@
-🌟 Krupa Patel
-Software Developer | Full‑Stack & Cloud Engineering
-
+Krupa Patel
+Software Developer • Full‑Stack • Cloud Engineering
 📍 Mason, OH (Open to Relocate)
 📧 kpate6201@gmail.com
 📱 +1 224‑475‑8699
 🔗 LinkedIn · Portfolio · GitHub
 
-👋 Hi, I'm Krupa
-I’m a Full‑Stack Software Developer with hands-on experience building production-grade web applications, cloud APIs, and intelligent automation systems. I specialize in React, Node.js, Angular, Python, AWS, Azure, and modern SDLC practices. I love turning complex requirements into clean, scalable, and user-friendly solutions — from UI to API to cloud deployment.
+✨ Hi, I'm Krupa!
+I’m a Full‑Stack Software Developer who builds fast, scalable, and user‑focused digital products. I specialize in crafting modern frontend experiences, designing high‑performance backend systems, and deploying cloud‑native solutions that run reliably in production. My work blends clean UI/UX, strong API architecture, and cloud automation — delivering applications that feel smooth, respond instantly, and scale effortlessly.
 
-🔧 What I Build
-I build full‑stack web applications, cloud‑native APIs, and intelligent automation systems that are production‑ready and scalable. My frontend work includes crafting responsive, real‑time dashboards using React.js, Next.js, Angular.js, TypeScript, and clean UI/UX workflows. On the backend, I design reliable REST APIs and cloud services using Node.js, Flask, SQL Alchemy, PostgreSQL, MongoDB, and Redis — optimized for performance, concurrency, and maintainability. I also architect AWS and Azure cloud pipelines with Docker, CI/CD, EC2, RDS, S3, and event‑driven workflows that support high‑availability deployments. Additionally, I build document‑intelligence and automation systems using OCR, LLMs, and RAG pipelines to reduce manual processing time and streamline enterprise operations.
+🎨 What I Build
+I build full‑stack web applications, cloud‑native APIs, and intelligent automation systems that are production‑ready and scalable. My frontend work includes responsive dashboards built with React.js, Next.js, Angular.js, TypeScript, and clean UI/UX workflows. On the backend, I design reliable REST APIs and cloud services using Node.js, Flask, SQL Alchemy, PostgreSQL, MongoDB, and Redis — optimized for performance, concurrency, and maintainability. I also architect AWS and Azure pipelines with Docker, CI/CD, EC2, RDS, S3, and event‑driven workflows. Additionally, I build document‑intelligence systems using OCR, LLMs, and RAG pipelines to reduce manual processing time and streamline enterprise operations.
 
 🚀 Featured Projects
 | **[Project](ca://s?q=Tell_me_more_about_this_project)** | **Stack** | **Highlights** |
