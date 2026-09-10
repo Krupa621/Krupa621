@@ -2,7 +2,7 @@
 KRUPA PATEL
 </h1>
 
-<h2 style="text-align: center; font-weight: 600; margin-top: -10px;">
+<h2 style="text-align: center; font-weight: 600; margin-top: -10px;" align="center">
 Software Developer • Full‑Stack Developer • Front-End Developer 
 </h2>
 
