@@ -13,12 +13,13 @@ I’m a Full‑Stack Software Developer with hands-on experience building produc
 I build full‑stack web applications, cloud‑native APIs, and intelligent automation systems that are production‑ready and scalable. My frontend work includes crafting responsive, real‑time dashboards using React.js, Next.js, Angular.js, TypeScript, and clean UI/UX workflows. On the backend, I design reliable REST APIs and cloud services using Node.js, Flask, SQL Alchemy, PostgreSQL, MongoDB, and Redis — optimized for performance, concurrency, and maintainability. I also architect AWS and Azure cloud pipelines with Docker, CI/CD, EC2, RDS, S3, and event‑driven workflows that support high‑availability deployments. Additionally, I build document‑intelligence and automation systems using OCR, LLMs, and RAG pipelines to reduce manual processing time and streamline enterprise operations.
 
 🚀 Featured Projects
-Project	Stack	Highlights
-Real-Time Location Tracking Dashboard	Angular.js, React.js, WebSockets, AWS, SQL	Sub‑second live tracking · 500+ concurrent users · optimized event broadcasting
-Internal Document Intelligence Platform	Python, OCR, LLMs, Angular.js, PostgreSQL, Docker, AWS	Automated OCR+LLM extraction · 80%+ faster review · full SDLC delivery
-Scalable Cloud API & Analytics Platform	Flask, PostgreSQL, MongoDB, Redis, Docker, AWS	99.9% uptime · 35% lower latency · supports 25% more concurrent requests
-ERP System — Attendance & HR Analytics	React.js, Ant Design, TypeScript, REST API	Role-based access · live sync · improved HR visibility & workflow
-Mekanism Technology Company Website	Next.js, React.js, SCSS, Git, Jira	Responsive design · modular SCSS · collaborative feature delivery
+| **[Project](ca://s?q=Tell_me_more_about_this_project)** | **Stack** | **Highlights** |
+| --- | --- | --- |
+| 🌍 **Real-Time Location Tracking Dashboard** | Angular.js, React.js, WebSockets, AWS, SQL | Sub‑second updates · 500+ concurrent users · optimized event broadcasting |
+| 📄 **Internal Document Intelligence Platform** | Python, OCR, LLMs, Angular.js, PostgreSQL, Docker, AWS | OCR+LLM automation · 80%+ faster review · full SDLC delivery |
+| ☁️ **Scalable Cloud API & Analytics Platform** | Flask, PostgreSQL, MongoDB, Redis, Docker, AWS | 99.9% uptime · 35% lower latency · supports 25% more concurrency |
+| 🧭 **ERP System — Attendance & HR Analytics** | React.js, Ant Design, TypeScript, REST API | Role-based access · live sync · improved HR visibility |
+| 🏢 **Mekanism Technology Company Website** | Next.js, React.js, SCSS, Git, Jira | Responsive UI · modular SCSS · collaborative delivery |
 
 🛠️ Technical Skills
 Frontend
